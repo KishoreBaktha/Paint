@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="ERASER"
+        app:showAsAction="never"
+        android:id="@+id/menu_15">
+    </item>
+    <item android:title="BLUE"
+        app:showAsAction="never"
+        android:id="@+id/menu_1">
+    </item>
+    <item android:title="RED"
+        app:showAsAction="never"
+        android:id="@+id/menu_2">
+        </item>
+    <item android:title="GREEN"
+        app:showAsAction="never"
+        android:id="@+id/menu_3">
+    </item>
+    <item android:title="YELLOW"
+        app:showAsAction="never"
+        android:id="@+id/menu_4">
+    </item>
+    <item android:title="CYAN"
+        app:showAsAction="never"
+        android:id="@+id/menu_5">
+    </item>
+    <item android:title=" BACKGROUND-BLUE"
+        app:showAsAction="never"
+        android:id="@+id/menu_6">
+    </item>
+    <item android:title="BACKGROUND-RED"
+        app:showAsAction="never"
+        android:id="@+id/menu_7">
+    </item>
+    <item android:title="BACKGROUND-GREEN"
+        app:showAsAction="never"
+        android:id="@+id/menu_8">
+    </item>
+    <item android:title="BACKGROUND-YELLOW"
+        app:showAsAction="never"
+        android:id="@+id/menu_9">
+    </item>
+    <item android:title="BACKGROUND-CYAN"
+        app:showAsAction="never"
+        android:id="@+id/menu_10">
+    </item>
+    <item android:title="THIN"
+        app:showAsAction="never"
+        android:id="@+id/menu_12">
+    </item>
+    <item android:title="MEDIUM"
+        app:showAsAction="never"
+        android:id="@+id/menu_13">
+    </item>
+    <item android:title="THICK"
+        app:showAsAction="never"
+        android:id="@+id/menu_14">
+    </item>
+    <item android:title="SAVE"
+        app:showAsAction="never"
+        android:id="@+id/menu_11">
+    </item>
+
+</menu>
